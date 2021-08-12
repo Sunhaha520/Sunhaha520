@@ -15,6 +15,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sunhaha520&show_icons=true&locale=en" alt="sunhaha520" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sunhaha520&show_icons=true&locale=en&layout=compact" alt="sunhaha520" /></p>
+
+
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sunhaha520&" alt="sunhaha520" /></p>
+
+
+
 <h1 align="center">Hi 👋, I'm Sunzhenyu</h1>
 <h3 align="center">A civil engineering student who loves programming.🤔</h3>
 
@@ -23,7 +31,7 @@ Here are some ideas to get you started:
 - 🌱 Currently studying in Jiang Su, China.
 - 💬 Ask me about C/C++, TypeScript and my projects on [2838703275@qq.com](mailto:2838703275@qq.com)
 - 🌱 I’m currently learning Java.
-- ⚡ Fun fact: Data Analysis📊
+- ⚡ Fun fact: Data Analysis
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
