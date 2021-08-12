@@ -14,25 +14,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# README
+<h1 align="center">Hi 👋, I'm Sunzhenyu</h1>
+<h3 align="center">A civil engineering student who loves programming.🤔</h3>
 
-
-
-
-
-
-### I'm Sun Zhenyu
 
 - 🤔 A civil engineering student who loves programming.
 - 🌱 Currently studying in Jiang Su, China.
 - 💬 Ask me about C/C++, TypeScript and my projects on [2838703275@qq.com](mailto:2838703275@qq.com)
 - 🌱 I’m currently learning Java.
 - ⚡ Fun fact: Data Analysis📊
-
-
-
-<h1 align="center">Hi 👋, I'm Sunzhenyu</h1>
-<h3 align="center">A civil engineering student who loves programming.🤔</h3>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
