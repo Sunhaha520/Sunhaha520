@@ -17,6 +17,7 @@ Here are some ideas to get you started:
 # README
 
 ![Sunhaha520's github stats](https://github-readme-stats.vercel.app/api?username=Sunhaha520)
+![Sunhaha520's Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sunhaha520 GitHub ID&layout=compact&hide_border=true&langs_count=10)
 
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/JoeyBling/JoeyBling/master/pic/pusheencode.gif" />
 
