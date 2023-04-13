@@ -3,7 +3,8 @@
 - 🔭 一名土木专业学生，啥都会点，啥都不厉害~
 - 😄 现在一事无成，有时候感觉好累~
 - 💬 既然来了就点一下左边的`Follow`按钮吧，我实力差劲，但也希望和你做朋友~
-- 👯 偷偷告诉你，我还有一个小网站：[https://www.xiaoayu.ren](https://www.xiaoayu.ren)
+- 🏆 偷偷告诉你，我还有一个小网站：[https://www.xiaoayu.ren](https://www.xiaoayu.ren)
+- ❤️ 最近在学Python，这是我的Python学习笔记[https://notion.xiaoayu.ren](https://notion.xiaoayu.ren)
 - ⚡ 这辈子写的最好的代码是下面这段：
 
 ```cpp
